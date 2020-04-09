@@ -64,7 +64,7 @@ class Footer extends Component {
                             <div className="copyright">
                                 © Copyright Greenmily.com
 	                        </div>
-    
+                <a id="scroll-top" href="#"><span class="fa fa-angle-up"></span></a>
     </footer>
         )
 }
