@@ -56,7 +56,8 @@ header .logo img {
     header .logo img {
         width: 130px;
         position: relative;
-        padding-top: 10px;
+        padding-top: 15px;
+        text-align: left;
     }
 }
 
